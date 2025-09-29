@@ -73,3 +73,5 @@ Some options for evalutation in the script:
 - `--anomaly_dataset`: choose the anomaly detection dataset to evaluate the performance
 
 More training and evaluation options see `options.py`.
+
+If you need the weight file, please contact me.
